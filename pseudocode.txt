@@ -1,0 +1,4 @@
+I want to get a list of all the lines with a hyperlink
+Then I want to download the hyperlink
+Then I want to rename the file that is downloaded with it's corresponding naming convention.
+Then I want repeat steps 2-3 until all hyperlinks have been downloaded and renamed
